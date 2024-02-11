@@ -19,8 +19,6 @@ It is a first "welcome" challange (newbie level) from Frontend Mentor. As a newc
 ### Screenshot
 
 ![screenshot_desktop](./images/screenshot_desktop.png)
-![screenshot_mobile](./images/screenshot_mobile.png)
-
 
 ### Links
 
