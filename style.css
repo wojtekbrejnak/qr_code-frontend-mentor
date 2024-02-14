@@ -28,12 +28,12 @@ img {
     margin: 1rem auto 1.15rem;
 }
 
-.title,
-.info{
+h1,
+p {
     font-family: Outfit;
     display: inline-block;
 }
-.title {
+h1 {
     width: 18rem;
     font-size: 1.375rem;
     font-weight: 700;
@@ -41,7 +41,7 @@ img {
     color: hsl(218, 44%, 22%);
 }
 
-.info {
+p {
     width: 16rem;
     font-size: 0.9375rem;
     font-weight: 400;
